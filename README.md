@@ -9,5 +9,5 @@ and be sure to [join the email list](http://learnenough.com/#email_list) and
 
 After finishing *Learn Enough™ Git to Be Dangerous*, I'll know enough Git to be
 *dangerous*. This means I'll be able to use Git to track changes in your projects,
-back up data, share your work with others, and collaborate with programmers and
+back up data, share my work with others, and collaborate with programmers and
 other users of Git.
